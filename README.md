@@ -59,7 +59,7 @@ Contributions to this project are welcome. Please fork the repository and submit
 
 ## License
 
-[Specify your license here, e.g., MIT, GPL, etc.]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
